@@ -53,4 +53,4 @@ class BadResponder(Responder):
         """
         return ['モンスターが反撃した！', -point]
 
-
+# 変更
