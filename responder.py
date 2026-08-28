@@ -55,6 +55,7 @@ class BadResponder(Responder):
 
 
 # プログラムの実行ブロック
+# add20260828
 if __name__  == '__main__':
     # 変動値を3にしておく
     point = 3
